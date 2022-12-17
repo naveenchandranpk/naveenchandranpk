@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naveenchandranpk
+- 👋 Hi, I’m @nave
 - 👀 I’m interested in learning Python and trying out new tools
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on DevOps projects using AWS
